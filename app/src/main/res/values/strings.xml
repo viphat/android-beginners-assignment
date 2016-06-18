@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NameCard</string>
+    <string name="basic_info">Thông tin cá nhân</string>
+    <string name="user_name">Họ tên</string>
+    <string name="avatar">H.Ảnh</string>
+    <string name="education">Học vị</string>
+    <string name="education_1">Cử nhân</string>
+    <string name="education_2">Thạc sĩ</string>
+    <string name="education_3">Tiến sĩ</string>
+    <string name="field">Ch.ngành</string>
+    <string name="basic_contact">Thông tin liên lạc</string>
+    <string name="address">Địa chỉ</string>
+    <string name="email">Email</string>
+    <string name="phone">Đ.thoại</string>
+    <string name="work_place">Công tác</string>
+    <string-array name="spinnerField">
+        <item name="KHMT">Khoa học máy tính</item>
+        <item name="KTPM">Kỹ thuật phần mềm</item>
+        <item name="HTTT">Hệ thống thông tin</item>
+        <item name="MMT">Mạng máy tính</item>
+    </string-array>
+    <string name="Browse">BROWSE</string>
+</resources>
